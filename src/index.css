@@ -7,9 +7,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+/* Додані стилі */
+  background-color: #eceaea;
+/*  */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* Додані стилі */
+p,
+h2,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+/*  */
